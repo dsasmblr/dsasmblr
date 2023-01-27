@@ -6,24 +6,6 @@
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/dsasmblr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
 </p>
-<p align="middle">
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=CookiesKush&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
-    <br>
-    <a href='http://cookiesservices.xyz'>
-        <img alt='Discord User' src='https://discord.c99.nl/widget/theme-4/984231236262313994.png'/>
-</p> 
-
-
-
-<div style="display: inline_block" align="middle"><br>
-    <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-</div>
 
 <!--
 **dsasmblr/dsasmblr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
