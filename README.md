@@ -7,17 +7,46 @@
     </a>
 </p>
 
-<!--
-**dsasmblr/dsasmblr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header -->
+<h1 align="center">Hi there! 👋</h1>
+<p align="center">
+  <a href="https://youtube.com/StephenChapman">YouTube</a> •
+  <a href="https://twitter.com/Chapman">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Introduction -->
+- 🔭 I’m currently working on: Multiple projects utilizing [Tauri](https://tauri.app/) (instead of Electron)
+- 🌱 I’m currently learning: Rust, Complex Reverse Engineering via [Hexorcist](https://www.reverse-engineer.net/), and Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Skills -->
+## Programming languages, frameworks, libraries, etc.: 
+  - JavaScript and TypeScript
+  - HTML and CSS
+  - Lua
+  - x86/x64 Assembly
+  - Rust
+  - React
+  - Tauri
+  - VS Code
+  - IDA and Ghidra
+  - x64dbg
+  - Cheat Engine
+  - 010 Editor
+  - Obsidian
+  - Much, much more...
+
+<!-- Projects -->
+## Projects
+- Coming soon!
+<!-- - [Project 1](https://github.com/yourusername/project1): Description of project 1.
+- [Project 2](https://github.com/yourusername/project2): Description of project 2. -->
+
+<!-- Stats -->
+## Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dsasmblr&show_icons=true&theme=radical)
+
+<!-- Footer -->
+<p align="center">
+  <a href="https://github.com/dsasmblr"><img src="https://img.shields.io/github/followers/dsasmblr.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/Chapman"><img src="https://img.shields.io/twitter/follow/chapman?label=Twitter&style=social" alt="Twitter"></a>
+</p>
