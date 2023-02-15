@@ -44,9 +44,3 @@
 <!-- Stats -->
 ## Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dsasmblr&show_icons=true&theme=radical)
-
-<!-- Footer -->
-<p align="center">
-  <a href="https://github.com/dsasmblr"><img src="https://img.shields.io/github/followers/dsasmblr.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/Chapman"><img src="https://img.shields.io/twitter/follow/chapman?label=Twitter&style=social" alt="Twitter"></a>
-</p>
